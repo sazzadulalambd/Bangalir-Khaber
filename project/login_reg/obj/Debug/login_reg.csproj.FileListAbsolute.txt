@@ -1,0 +1,34 @@
+D:\project\project\login_reg\bin\Debug\login_reg.exe.config
+D:\project\project\login_reg\bin\Debug\login_reg.exe
+D:\project\project\login_reg\bin\Debug\login_reg.pdb
+D:\project\project\login_reg\bin\Debug\Guna.UI2.dll
+D:\project\project\login_reg\obj\Debug\login_reg.csproj.AssemblyReference.cache
+D:\project\project\login_reg\obj\Debug\login_reg.Form1.resources
+D:\project\project\login_reg\obj\Debug\login_reg.Properties.Resources.resources
+D:\project\project\login_reg\obj\Debug\login_reg.csproj.GenerateResource.cache
+D:\project\project\login_reg\obj\Debug\login_reg.csproj.CoreCompileInputs.cache
+D:\project\project\login_reg\obj\Debug\login_reg.csproj.CopyComplete
+D:\project\project\login_reg\obj\Debug\login_reg.exe
+D:\project\project\login_reg\obj\Debug\login_reg.pdb
+D:\project\project\login_reg\obj\Debug\login_reg.reg_login.resources
+D:\project\project\login_reg\obj\Debug\login_reg.home.resources
+D:\project\project\login_reg\obj\Debug\login_reg.customer_acc.resources
+D:\project\project\login_reg\obj\Debug\login_reg.seller_acc.resources
+D:\project\project\login_reg\obj\Debug\login_reg.homeCS.resources
+C:\Users\user\Desktop\C# PROJECT\project\login_reg\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\C# PROJECT\project\login_reg\obj\Debug\login_reg.customer_acc.resources
+C:\Users\user\Desktop\C# PROJECT\project\login_reg\obj\Debug\login_reg.Form1.resources
+C:\Users\user\Desktop\C# PROJECT\project\login_reg\obj\Debug\login_reg.home.resources
+C:\Users\user\Desktop\C# PROJECT\project\login_reg\obj\Debug\login_reg.Properties.Resources.resources
+C:\Users\user\Desktop\C# PROJECT\project\login_reg\obj\Debug\login_reg.reg_login.resources
+C:\Users\user\Desktop\C# PROJECT\project\login_reg\obj\Debug\login_reg.seller_acc.resources
+C:\Users\user\Desktop\C# PROJECT\project\login_reg\obj\Debug\login_reg.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C# PROJECT\project\login_reg\obj\Debug\login_reg.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# PROJECT\project\login_reg\obj\Debug\login_reg.csproj.CopyComplete
+C:\Users\user\Desktop\C# PROJECT\project\login_reg\obj\Debug\login_reg.homesc.resources
+C:\Users\user\Desktop\C# PROJECT\project\login_reg\bin\Debug\Bangalir Khaber.exe.config
+C:\Users\user\Desktop\C# PROJECT\project\login_reg\bin\Debug\Bangalir Khaber.exe
+C:\Users\user\Desktop\C# PROJECT\project\login_reg\bin\Debug\Bangalir Khaber.pdb
+C:\Users\user\Desktop\C# PROJECT\project\login_reg\obj\Debug\Bangalir Khaber.exe
+C:\Users\user\Desktop\C# PROJECT\project\login_reg\obj\Debug\Bangalir Khaber.pdb
+C:\Users\user\Desktop\C# PROJECT\project\login_reg\obj\Debug\login_reg.csproj.AssemblyReference.cache

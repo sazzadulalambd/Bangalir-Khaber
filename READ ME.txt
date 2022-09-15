@@ -1,0 +1,67 @@
+***************BANGALIR kHABER***************
+DEVELOP BY :
+SAZZADUL ALAM SHAWON 19-39385-1
+sazzad.sua@gmail.com
+
+
+
+HOW MANY UESR ?
+1.VIEWER
+2.SELLER
+3.CUSTOMER
+
+DEFAULT SELLER:
+---------------------------------------
+MAIL                          PASSWORD
+sazzad@gmail.com              1234
+rakib@gmail.com               74123
+hamid@gmail.com               74123
+jahid@gmail.com               1234
+hasibb@gmail.com              74123
+mahin@gmail.com               74123
+0                             0
+
+
+
+DEFAULT CUSTOMER:
+---------------------------------------
+MAIL                          PASSWORD
+rima@gmail.com                4321
+sima@gmail.com                4321
+sadia@gmail.com               4321
+1                             1
+
+SELLER CAN:
+1REGISTER
+2.LOGIN
+3.VIEW HOME PAGE
+4.EDIT ACCOUNT
+5.ADD PRODUCTS
+6.EDIT PRODUCTS
+7.DELETE PRODUCTS
+8.WATCH DASHBORD
+9.VIEW ORDER
+10.UPDATE ORDER STATUS
+11.HELP FROM DEVELOP
+12.LOGOUT
+
+
+CUSTOMER CAN:
+1REGISTER
+2.LOGIN
+3.VIEW HOME PAGE
+4.SELECT/ADD TO CART PRODUCTS
+5.CHECKOUT
+6.CAN PAYMENT BY (BKASH,NAGAD,ROCKET,CARD,CASH ON DELEVERY)
+7.VIEW ORDER LIST AND UPDATE STATUS.
+8.CANCLE ORDER
+9.EDIT ACCOUNT
+10.HELP FROM DEVELOP
+11.LOGOUT
+
+
+
+
+
+
+
